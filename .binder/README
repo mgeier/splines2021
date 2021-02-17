@@ -1,0 +1,7 @@
+This directory holds configuration files for https://mybinder.org/.
+
+The presentation can be accessed with this link:
+https://mybinder.org/v2/gh/mgeier/splines2021/main?filepath=presentation.ipynb
+
+To check out a different version, just replace "main" with the desired
+branch/tag name or commit hash.
