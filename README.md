@@ -5,6 +5,16 @@ Rotation Splines for Spatial Audio Scenes
 Abstract
 --------
 
+A spline is a tool for smoothly creating intermediate values between given key
+positions.  Different types of splines are presented, which are used in the
+context of an audio scene description format.  Splines are used to compute
+intermediate positions in sound source trajectories, which are defined by lists
+of points in Euclidean 3D space.  Methods for creating curve segments and for
+smoothly connecting those curve segments are shown.  It is desirable to also use
+splines to create intermediate values within a list of given 3D rotations.  Even
+though rotations don't span a Euclidean space, some of the spline techniques can
+be translated to rotations, albeit with limitations.
+
 
 View Slides
 -----------
